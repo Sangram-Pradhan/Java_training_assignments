@@ -1,0 +1,7 @@
+                  SOAP                                                             Rest
+1)  SOAP is a protocol.	                                              REST is an architectural style.
+2)	SOAP stands for Simple Object Access Protocol.            	      REST stands for REpresentational State Transfer.
+3)	SOAP can't use REST because it is a protocol.             	      REST can use SOAP web services because it is a concept and can use any protocol like HTTP, SOAP.
+4)	SOAP uses services interfaces to expose the business logic.	      REST uses URI to expose business logic.
+7)	SOAP requires more bandwidth and resource than REST.	            REST requires less bandwidth and resource than SOAP.
+8)	SOAP defines its own security.	                                  RESTful web services inherits security measures from the underlying transport.
